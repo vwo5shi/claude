@@ -11,3 +11,4 @@ Claude 国内镜像站： https://chat.aigc.bar/ 自助选车，自助换车，�
 ![Image](https://github.com/user-attachments/assets/6d601933-a19e-491f-b50c-d7dd89eb1bf0)
 
 ![](https://pic1.imgdb.cn/item/67dfd2f088c538a9b5c5125b.png)
+<meta name="google-site-verification" content="yEFPpUYd849yFyrcLaARh4djfD4tRwRQk2Pl1cWzr0s" />
